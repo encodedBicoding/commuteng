@@ -1,0 +1,11 @@
+.section-header {
+    color: #fff;
+}
+
+ul .dropdown-menu > li{
+    position: relative;
+    min-width: 90px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    padding: 10px 12px;
+    text-align: center;
+}
