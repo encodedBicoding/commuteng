@@ -1,6 +1,9 @@
 .section-header {
     color: #fff;
 }
+.black{
+    color: black;
+}
 
 ul .dropdown-menu > li{
     position: relative;
@@ -11,4 +14,122 @@ ul .dropdown-menu > li{
 }
 .text-muted{
     text-align: justify;
+}
+
+
+
+/*Froms styles*/
+
+* {
+    box-sizing: border-box;
+}
+
+
+.formInput {
+  box-sizing: border-box;
+  max-width: 450px;
+  margin: auto;
+  padding-bottom: 70px;
+}
+
+body{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    padding: 60px 0 1px;
+}
+input[type="checkbox"]{
+    width: 3%;
+    margin: 15px 3px 0;
+}
+input[type="submit"]{
+    margin-top: 14px;
+    background-color: rgb(44, 68, 206);
+    color: white;
+    font-family: monospace;
+    font-size: 1.1em;
+    cursor: pointer;
+}
+
+div[id="container"]{
+    max-width: 500px;
+    margin: auto;
+    
+    
+
+}
+input {
+    font-size: 1em;
+    font-weight: 300;
+    width: 100%;
+    border-radius: .4em;
+    border: none;
+    height: auto;
+    padding: 10px;
+    margin-top: 10px;
+    margin-bottom: 8px;
+    outline: 0;
+    border-bottom: 2px solid sandybrown;
+    background-color: rgb(153, 151, 147);
+    transition-duration: .5s;
+    transition-property: border;
+}
+
+input:focus{
+    border-color: rgb(44, 68, 206);
+}
+h1 {
+    text-align: center;
+    margin-bottom: 10%;
+}
+form{
+    margin-bottom: 30px;
+    background-color: rgb(230, 230, 205);
+    border-radius: .5em .5em;
+}
+.bkhome{
+    text-align: center;
+}
+label{
+    margin-left: 15px;
+}
+a[id="bkhome"]{
+    text-decoration: none;
+    border-bottom: 1px dotted;
+    color: rgb(0, 22, 8);
+    font-weight: bolder;
+}
+
+/* ===================
+        FOOTER
+====================== */
+footer{
+    display: flex;
+}
+
+
+.footer{
+    border-top: solid 2px;
+    display: flex;
+    flex-direction: column;
+    background: linear-gradient(rgb(81, 85, 52), transparent 90%),
+    linear-gradient(to top,#000,transparent),
+    #000 url("..//images/commut1.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: white;
+    width: 100%;
+    margin-top: 40px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.copy {
+    padding: 7px 7px;
+    margin: auto;
+}
+.copy a{
+    color: rgb(245, 231, 231);
+    border-radius: 3px 10px;
+}
+.copy a:hover{
+    color: goldenrod;
+    text-decoration: none;
 }
