@@ -2,107 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="560fcb8c-3366-423b-912e-ce3ed9eafd30" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.travis.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/creative.css" beforeDir="false" afterPath="$PROJECT_DIR$/UI/css/creative.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/creative.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/UI/css/creative.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/UI/css/main.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/driverLogin.html" beforeDir="false" afterPath="$PROJECT_DIR$/UI/driverLogin.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/driverSignUp.html" beforeDir="false" afterPath="$PROJECT_DIR$/UI/driverSignUp.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gulpfile.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/apple.png" beforeDir="false" afterPath="$PROJECT_DIR$/UI/img/apple.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/commut.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/UI/img/commut.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/commut1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/UI/img/commut1.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/commut2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/UI/img/commut2.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/commuteman.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/UI/img/commuteman.jpeg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/credit-card.png" beforeDir="false" afterPath="$PROJECT_DIR$/UI/img/credit-card.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/google.png" beforeDir="false" afterPath="$PROJECT_DIR$/UI/img/google.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/ok.png" beforeDir="false" afterPath="$PROJECT_DIR$/UI/img/ok.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/seat-belt-symbol.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/UI/img/seat-belt-symbol.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/shield.png" beforeDir="false" afterPath="$PROJECT_DIR$/UI/img/shield.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/steering.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/UI/img/steering.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/wifi-signal.png" beforeDir="false" afterPath="$PROJECT_DIR$/UI/img/wifi-signal.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/UI/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/creative.js" beforeDir="false" afterPath="$PROJECT_DIR$/UI/js/creative.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/creative.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/UI/js/creative.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scss/_bootstrap-overrides.scss" beforeDir="false" afterPath="$PROJECT_DIR$/UI/scss/_bootstrap-overrides.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scss/_global.scss" beforeDir="false" afterPath="$PROJECT_DIR$/UI/scss/_global.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scss/_masthead.scss" beforeDir="false" afterPath="$PROJECT_DIR$/UI/scss/_masthead.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scss/_mixins.scss" beforeDir="false" afterPath="$PROJECT_DIR$/UI/scss/_mixins.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scss/_navbar.scss" beforeDir="false" afterPath="$PROJECT_DIR$/UI/scss/_navbar.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scss/_portfolio.scss" beforeDir="false" afterPath="$PROJECT_DIR$/UI/scss/_portfolio.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scss/_services.scss" beforeDir="false" afterPath="$PROJECT_DIR$/UI/scss/_services.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scss/_variables.scss" beforeDir="false" afterPath="$PROJECT_DIR$/UI/scss/_variables.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scss/creative.scss" beforeDir="false" afterPath="$PROJECT_DIR$/UI/scss/creative.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/userLogin.html" beforeDir="false" afterPath="$PROJECT_DIR$/UI/userLogin.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/userSignUp.html" beforeDir="false" afterPath="$PROJECT_DIR$/UI/userSignUp.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/bootstrap/css/bootstrap-grid.css" beforeDir="false" afterPath="$PROJECT_DIR$/UI/vendor/bootstrap/css/bootstrap-grid.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/bootstrap/css/bootstrap-grid.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/UI/vendor/bootstrap/css/bootstrap-grid.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/bootstrap/css/bootstrap-reboot.css" beforeDir="false" afterPath="$PROJECT_DIR$/UI/vendor/bootstrap/css/bootstrap-reboot.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/bootstrap/css/bootstrap-reboot.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/UI/vendor/bootstrap/css/bootstrap-reboot.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/bootstrap/css/bootstrap.css" beforeDir="false" afterPath="$PROJECT_DIR$/UI/vendor/bootstrap/css/bootstrap.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/bootstrap/css/bootstrap.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/UI/vendor/bootstrap/css/bootstrap.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/bootstrap/css/bootstrap.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/UI/vendor/bootstrap/css/bootstrap.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/bootstrap/css/bootstrap.min.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/UI/vendor/bootstrap/css/bootstrap.min.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/bootstrap/js/bootstrap.bundle.js" beforeDir="false" afterPath="$PROJECT_DIR$/UI/vendor/bootstrap/js/bootstrap.bundle.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/bootstrap/js/bootstrap.bundle.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/UI/vendor/bootstrap/js/bootstrap.bundle.js.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/bootstrap/js/bootstrap.bundle.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/UI/vendor/bootstrap/js/bootstrap.bundle.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/bootstrap/js/bootstrap.bundle.min.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/UI/vendor/bootstrap/js/bootstrap.bundle.min.js.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/bootstrap/js/bootstrap.js" beforeDir="false" afterPath="$PROJECT_DIR$/UI/vendor/bootstrap/js/bootstrap.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/bootstrap/js/bootstrap.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/UI/vendor/bootstrap/js/bootstrap.js.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/bootstrap/js/bootstrap.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/UI/vendor/bootstrap/js/bootstrap.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/bootstrap/js/bootstrap.min.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/UI/vendor/bootstrap/js/bootstrap.min.js.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/font-awesome/css/font-awesome.css" beforeDir="false" afterPath="$PROJECT_DIR$/UI/vendor/font-awesome/css/font-awesome.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/font-awesome/css/font-awesome.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/UI/vendor/font-awesome/css/font-awesome.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/font-awesome/css/font-awesome.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/UI/vendor/font-awesome/css/font-awesome.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/font-awesome/fonts/FontAwesome.otf" beforeDir="false" afterPath="$PROJECT_DIR$/UI/vendor/font-awesome/fonts/FontAwesome.otf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/font-awesome/fonts/fontawesome-webfont.eot" beforeDir="false" afterPath="$PROJECT_DIR$/UI/vendor/font-awesome/fonts/fontawesome-webfont.eot" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/font-awesome/fonts/fontawesome-webfont.svg" beforeDir="false" afterPath="$PROJECT_DIR$/UI/vendor/font-awesome/fonts/fontawesome-webfont.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/font-awesome/fonts/fontawesome-webfont.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/UI/vendor/font-awesome/fonts/fontawesome-webfont.ttf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/font-awesome/fonts/fontawesome-webfont.woff" beforeDir="false" afterPath="$PROJECT_DIR$/UI/vendor/font-awesome/fonts/fontawesome-webfont.woff" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/font-awesome/fonts/fontawesome-webfont.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/UI/vendor/font-awesome/fonts/fontawesome-webfont.woff2" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/font-awesome/less/animated.less" beforeDir="false" afterPath="$PROJECT_DIR$/UI/vendor/font-awesome/less/animated.less" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/font-awesome/less/bordered-pulled.less" beforeDir="false" afterPath="$PROJECT_DIR$/UI/vendor/font-awesome/less/bordered-pulled.less" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/font-awesome/less/core.less" beforeDir="false" afterPath="$PROJECT_DIR$/UI/vendor/font-awesome/less/core.less" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/font-awesome/less/fixed-width.less" beforeDir="false" afterPath="$PROJECT_DIR$/UI/vendor/font-awesome/less/fixed-width.less" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/font-awesome/less/font-awesome.less" beforeDir="false" afterPath="$PROJECT_DIR$/UI/vendor/font-awesome/less/font-awesome.less" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/font-awesome/less/icons.less" beforeDir="false" afterPath="$PROJECT_DIR$/UI/vendor/font-awesome/less/icons.less" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/font-awesome/less/larger.less" beforeDir="false" afterPath="$PROJECT_DIR$/UI/vendor/font-awesome/less/larger.less" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/font-awesome/less/list.less" beforeDir="false" afterPath="$PROJECT_DIR$/UI/vendor/font-awesome/less/list.less" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/font-awesome/less/mixins.less" beforeDir="false" afterPath="$PROJECT_DIR$/UI/vendor/font-awesome/less/mixins.less" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/font-awesome/less/path.less" beforeDir="false" afterPath="$PROJECT_DIR$/UI/vendor/font-awesome/less/path.less" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/font-awesome/less/rotated-flipped.less" beforeDir="false" afterPath="$PROJECT_DIR$/UI/vendor/font-awesome/less/rotated-flipped.less" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/font-awesome/less/screen-reader.less" beforeDir="false" afterPath="$PROJECT_DIR$/UI/vendor/font-awesome/less/screen-reader.less" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/font-awesome/less/stacked.less" beforeDir="false" afterPath="$PROJECT_DIR$/UI/vendor/font-awesome/less/stacked.less" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/font-awesome/less/variables.less" beforeDir="false" afterPath="$PROJECT_DIR$/UI/vendor/font-awesome/less/variables.less" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/font-awesome/scss/_animated.scss" beforeDir="false" afterPath="$PROJECT_DIR$/UI/vendor/font-awesome/scss/_animated.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/font-awesome/scss/_bordered-pulled.scss" beforeDir="false" afterPath="$PROJECT_DIR$/UI/vendor/font-awesome/scss/_bordered-pulled.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/font-awesome/scss/_core.scss" beforeDir="false" afterPath="$PROJECT_DIR$/UI/vendor/font-awesome/scss/_core.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/font-awesome/scss/_fixed-width.scss" beforeDir="false" afterPath="$PROJECT_DIR$/UI/vendor/font-awesome/scss/_fixed-width.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/font-awesome/scss/_icons.scss" beforeDir="false" afterPath="$PROJECT_DIR$/UI/vendor/font-awesome/scss/_icons.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/font-awesome/scss/_larger.scss" beforeDir="false" afterPath="$PROJECT_DIR$/UI/vendor/font-awesome/scss/_larger.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/font-awesome/scss/_list.scss" beforeDir="false" afterPath="$PROJECT_DIR$/UI/vendor/font-awesome/scss/_list.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/font-awesome/scss/_mixins.scss" beforeDir="false" afterPath="$PROJECT_DIR$/UI/vendor/font-awesome/scss/_mixins.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/font-awesome/scss/_path.scss" beforeDir="false" afterPath="$PROJECT_DIR$/UI/vendor/font-awesome/scss/_path.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/font-awesome/scss/_rotated-flipped.scss" beforeDir="false" afterPath="$PROJECT_DIR$/UI/vendor/font-awesome/scss/_rotated-flipped.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/font-awesome/scss/_screen-reader.scss" beforeDir="false" afterPath="$PROJECT_DIR$/UI/vendor/font-awesome/scss/_screen-reader.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/font-awesome/scss/_stacked.scss" beforeDir="false" afterPath="$PROJECT_DIR$/UI/vendor/font-awesome/scss/_stacked.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/font-awesome/scss/_variables.scss" beforeDir="false" afterPath="$PROJECT_DIR$/UI/vendor/font-awesome/scss/_variables.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/font-awesome/scss/font-awesome.scss" beforeDir="false" afterPath="$PROJECT_DIR$/UI/vendor/font-awesome/scss/font-awesome.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/jquery-easing/jquery.easing.compatibility.js" beforeDir="false" afterPath="$PROJECT_DIR$/UI/vendor/jquery-easing/jquery.easing.compatibility.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/jquery-easing/jquery.easing.js" beforeDir="false" afterPath="$PROJECT_DIR$/UI/vendor/jquery-easing/jquery.easing.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/jquery-easing/jquery.easing.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/UI/vendor/jquery-easing/jquery.easing.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/jquery/jquery.js" beforeDir="false" afterPath="$PROJECT_DIR$/UI/vendor/jquery/jquery.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/jquery/jquery.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/UI/vendor/jquery/jquery.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/jquery/jquery.min.map" beforeDir="false" afterPath="$PROJECT_DIR$/UI/vendor/jquery/jquery.min.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/jquery/jquery.slim.js" beforeDir="false" afterPath="$PROJECT_DIR$/UI/vendor/jquery/jquery.slim.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/jquery/jquery.slim.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/UI/vendor/jquery/jquery.slim.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/jquery/jquery.slim.min.map" beforeDir="false" afterPath="$PROJECT_DIR$/UI/vendor/jquery/jquery.slim.min.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/magnific-popup/jquery.magnific-popup.js" beforeDir="false" afterPath="$PROJECT_DIR$/UI/vendor/magnific-popup/jquery.magnific-popup.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/magnific-popup/jquery.magnific-popup.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/UI/vendor/magnific-popup/jquery.magnific-popup.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/magnific-popup/magnific-popup.css" beforeDir="false" afterPath="$PROJECT_DIR$/UI/vendor/magnific-popup/magnific-popup.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/scrollreveal/scrollreveal.js" beforeDir="false" afterPath="$PROJECT_DIR$/UI/vendor/scrollreveal/scrollreveal.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/scrollreveal/scrollreveal.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/UI/vendor/scrollreveal/scrollreveal.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UI/css/creative.css" beforeDir="false" afterPath="$PROJECT_DIR$/UI/css/creative.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UI/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/UI/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UI/scss/_bootstrap-overrides.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UI/scss/_global.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UI/scss/_masthead.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UI/scss/_mixins.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UI/scss/_navbar.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UI/scss/_portfolio.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UI/scss/_services.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UI/scss/_variables.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UI/scss/creative.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UI/vendor/bootstrap/css/bootstrap.css" beforeDir="false" afterPath="$PROJECT_DIR$/UI/vendor/bootstrap/css/bootstrap.css" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -118,38 +30,41 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/UI/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="765">
-              <caret line="48" column="33" selection-start-line="48" selection-start-column="33" selection-end-line="48" selection-end-column="33" />
+            <state relative-caret-position="153">
+              <caret line="26" column="22" lean-forward="true" selection-start-line="26" selection-start-column="22" selection-end-line="26" selection-end-column="22" />
             </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/UI/scss/_navbar.scss">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-102" />
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/package.json">
+        <entry file="file://$PROJECT_DIR$/UI/css/creative.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="277">
-              <caret line="40" column="31" selection-start-line="40" selection-start-column="31" selection-end-line="40" selection-end-column="31" />
+            <state relative-caret-position="280">
+              <caret line="148" column="18" selection-start-line="148" selection-start-column="18" selection-end-line="148" selection-end-column="18" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/.gitignore">
+        <entry file="file://$PROJECT_DIR$/UI/js/creative.js">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/UI/css/main.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="13" lean-forward="true" selection-start-column="13" selection-end-column="13" />
+            <state relative-caret-position="17">
+              <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>nav</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -160,6 +75,10 @@
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/package.json" />
+        <option value="$PROJECT_DIR$/UI/scss/_navbar.scss" />
+        <option value="$PROJECT_DIR$/UI/vendor/bootstrap/css/bootstrap.css" />
+        <option value="$PROJECT_DIR$/UI/index.html" />
+        <option value="$PROJECT_DIR$/UI/css/creative.css" />
       </list>
     </option>
   </component>
@@ -192,6 +111,23 @@
               <item name="commuteng" type="b2602c69:ProjectViewProjectNode" />
               <item name="commuteng" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="commuteng" type="b2602c69:ProjectViewProjectNode" />
+              <item name="commuteng" type="462c0819:PsiDirectoryNode" />
+              <item name="UI" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="commuteng" type="b2602c69:ProjectViewProjectNode" />
+              <item name="commuteng" type="462c0819:PsiDirectoryNode" />
+              <item name="UI" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="commuteng" type="b2602c69:ProjectViewProjectNode" />
+              <item name="commuteng" type="462c0819:PsiDirectoryNode" />
+              <item name="UI" type="462c0819:PsiDirectoryNode" />
+              <item name="vendor" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -201,6 +137,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -234,12 +171,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1557317238875</updated>
-      <workItem from="1557317243600" duration="1185000" />
+      <workItem from="1557317243600" duration="3101000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1185000" />
+    <option name="totallyTimeSpent" value="3101000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -251,8 +188,8 @@
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Terminal" visible="true" weight="0.3289689" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" sideWeight="0.49925596" visible="true" weight="0.3289689" />
+      <window_info anchor="bottom" id="Event Log" sideWeight="0.50074404" side_tool="true" weight="0.3289689" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -269,18 +206,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/UI/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="765">
-          <caret line="48" column="33" selection-start-line="48" selection-start-column="33" selection-end-line="48" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/UI/scss/_navbar.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-102" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/gulpfile.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-595" />
@@ -289,14 +214,48 @@
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state>
-          <caret column="13" lean-forward="true" selection-start-column="13" selection-end-column="13" />
+          <caret column="13" selection-start-column="13" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/package.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="277">
-          <caret line="40" column="31" selection-start-line="40" selection-start-column="31" selection-end-line="40" selection-end-column="31" />
+        <state relative-caret-position="175">
+          <caret line="25" column="19" lean-forward="true" selection-start-line="25" selection-start-column="19" selection-end-line="25" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UI/scss/_navbar.scss">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UI/vendor/bootstrap/css/bootstrap.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1488">
+          <caret line="3841" column="4" selection-start-line="3841" selection-start-column="1" selection-end-line="3841" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UI/js/creative.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UI/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="26" column="22" lean-forward="true" selection-start-line="26" selection-start-column="22" selection-end-line="26" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UI/css/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UI/css/creative.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="148" column="18" selection-start-line="148" selection-start-column="18" selection-end-line="148" selection-end-column="18" />
         </state>
       </provider>
     </entry>
